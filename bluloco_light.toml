@@ -3,6 +3,8 @@
 "ui.virtual.whitespace" = { fg = "grey10" }
 "ui.cursorline" = { bg = "grey7" }
 "ui.cursorcolumn" = { bg = "grey7" }
+"ui.virtual.inlay-hint" = {bg = "shade3", fg = "shade25"}
+"ui.virtual.jump-label" = {bg = "cursor", fg = "bg", modifiers = ["bold"]}
 "ui.linenr" = { fg = "comment" }
 "ui.popup" = { bg = "bgFloat" }
 "ui.virtual.ruler" = { bg = "grey5" }
@@ -132,6 +134,7 @@ hint = "#7982DA"
 
 shade3 = "#F2F2F2"
 shade10 = "#E0E0E0"
+shade25 = "#575F70"
 shade30 = "#B0B0B0"
 
 grey5 = "#E7E8E9"
