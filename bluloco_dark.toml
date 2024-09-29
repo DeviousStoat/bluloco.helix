@@ -4,7 +4,7 @@
 "ui.cursorline" = { bg = "grey7" }
 "ui.cursorcolumn" = { bg = "grey7" }
 "ui.virtual.inlay-hint" = {bg = "shade3", fg = "shade25"}
-"ui.virtual.jump-label" = {bg = "cursor", fg = "bg", modifiers = ["bold"]}
+"ui.virtual.jump-label" = {fg = "cursor", modifiers = ["bold"]}
 "ui.linenr" = { fg = "comment" }
 "ui.popup" = { bg = "bgFloat" }
 "ui.virtual.ruler" = { bg = "grey5" }
