@@ -1,5 +1,6 @@
 "ui.background" = { fg = "fg", bg = "bg" }
-"ui.text" = { fg = "fg", bg = "bg" }
+"ui.text" = { fg = "fg"}
+"ui.text.focus" = {fg = "cursor"}
 "ui.virtual.whitespace" = { fg = "grey10" }
 "ui.cursorline" = { bg = "grey7" }
 "ui.cursorcolumn" = { bg = "grey7" }
@@ -10,7 +11,7 @@
 "ui.virtual.ruler" = { bg = "grey5" }
 "ui.cursor" = { bg = "cursor", fg = "bg" }
 "ui.cursor.match" = { bg = "punctuation", fg = "bg" }
-"ui.text.focus" = { fg = "keyword" }
+"ui.highlight" = {bg = "selection"}
 "error" = { fg = "error" }
 "ui.window" = { fg = "grey30" }
 "ui.gutter" = { fg = "fg", bg = "bg" }
